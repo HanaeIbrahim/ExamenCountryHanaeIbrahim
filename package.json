@@ -1,12 +1,15 @@
 {
-  "name": "Flag Quiz",
+  "name": "ibrahim_hanae_m51-2_progweb",
   "version": "1.0.0",
-  "description": "ProgWeb 23-24 Final Exam",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "author": "Simon Pinkas",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.11.0"
